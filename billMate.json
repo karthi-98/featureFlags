@@ -1,4 +1,4 @@
 {
-  "isProductionAd" : true,
-  "isRewardTurnedOn" : true,
+  "isProductionAd" : false,
+  "isRewardTurnedOn" : false,
 }
